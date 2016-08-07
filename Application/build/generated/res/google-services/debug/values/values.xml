@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">52993638032-gv3qtjdbn77btq3lo1j6sq8homkcvvd8.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://mlh-prime-b68ad.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">52993638032</string>
+    <string name="google_api_key" translatable="false">AIzaSyBO9Gk9G5ULo9cWJDmJM2S14lEqBhrDW_o</string>
+    <string name="google_app_id" translatable="false">1:52993638032:android:057e92167ca9714a</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBO9Gk9G5ULo9cWJDmJM2S14lEqBhrDW_o</string>
+    <string name="google_storage_bucket" translatable="false">mlh-prime-b68ad.appspot.com</string>
+</resources>
